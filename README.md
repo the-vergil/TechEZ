@@ -31,16 +31,13 @@ Before you begin, ensure you have met the following requirements:
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/your-username/mi-store-clone.git
-2. Change to the project directory:
-   ```sh
-   cd mi-store-clone
-3. Install the project dependencies:
+   git clone https://github.com/the-vergil/TechEZ.git
+2. Install the project dependencies:
    ```sh
    npm install
 
 ## Usage
-To run the Mi Store clone locally, use the following command:
+To run the TechEZ locally, use the following command:
 ```sh
 npm start
 ```
